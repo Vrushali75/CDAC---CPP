@@ -1,2 +1,2 @@
 # CDAC---CPP
-This repository contains a collection of core Java programs developed during CDAC training.
+This repository contains a collection of CPP programs developed during CDAC training.
